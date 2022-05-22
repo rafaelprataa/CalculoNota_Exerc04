@@ -14,5 +14,7 @@
 				" VOCÊ FOI REPROVADO!"
 		
 
-	FIM![fluxograma](https://user-images.githubusercontent.com/104045633/169679522-8fa9b88a-913c-4928-88f5-ae50b4212436.png)
+	FIM!
+	
+[fluxograma](https://user-images.githubusercontent.com/104045633/169679522-8fa9b88a-913c-4928-88f5-ae50b4212436.png)
 
