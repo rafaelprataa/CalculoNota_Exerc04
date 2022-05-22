@@ -1,7 +1,6 @@
 # Aqui temos um algoritmo para determinar a média das notas de um aluno, e retornar se ele foi aprovado, reprovado ou está de recuperação.
 ## Algoritmo do Exercicio
-
-    INICIO	
+ 	INICIO	
   	INFORME A NOTA 1
   	INFORME A NOTA 2
   	INFORME A NOTA 3			
@@ -15,4 +14,5 @@
 				" VOCÊ FOI REPROVADO!"
 		
 
-	
+	FIM![fluxograma](https://user-images.githubusercontent.com/104045633/169679522-8fa9b88a-913c-4928-88f5-ae50b4212436.png)
+
